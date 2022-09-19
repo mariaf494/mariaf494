@@ -1,7 +1,7 @@
 ### Hola! 👋
 Este es mi repositorio personal.
 
-![Banner](Purple Geometric Technology LinkedIn Banner.png)
+![Banner](Banner.jpg)
 
 
 <!--
