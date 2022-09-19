@@ -1,4 +1,7 @@
-### Hi there 👋
+![Banner](Banner.jpg)
+### Hola! 👋
+Este es mi repositorio personal.
+
 
 <!--
 **mariaf494/mariaf494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
