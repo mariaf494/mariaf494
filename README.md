@@ -1,7 +1,6 @@
+![Banner](Banner.jpg)
 ### Hola! 👋
 Este es mi repositorio personal.
-
-![Banner](Banner.jpg)
 
 
 <!--
